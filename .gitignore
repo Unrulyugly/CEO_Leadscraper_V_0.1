@@ -1,0 +1,5 @@
+/.env
+/.idea
+/apify.py
+/apify_actor.py
+/new.txt
