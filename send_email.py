@@ -10,7 +10,7 @@ with open("credentials.yml") as f:
 
 email_sender = credentials['user']
 email_password = credentials['password']
-email_receiver = 'seunbisi99@gmail.com'
+email_receiver = 'example@email.com'
 
 file_path = 'output.txt'  # Replace with your file name
 with open(file_path, 'r', encoding='utf-8', errors='ignore') as file:
